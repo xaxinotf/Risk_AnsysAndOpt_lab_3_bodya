@@ -114,6 +114,10 @@ p = (0.3, 0.5, 0.2)
   Якщо відоме середнє значення по стовпцевих середніх M=6, розподіл p оцінюється як максимально «невпереджений» і може відрізнятися від (0.3, 0.5, 0.2), але залишиться у допустимому діапазоні [min, max].
 
 ---
+<img width="1575" height="1222" alt="image" src="https://github.com/user-attachments/assets/4dcbc914-42ca-41cd-b47e-aad4bb721c6f" />
+
+
+<img width="1569" height="500" alt="image" src="https://github.com/user-attachments/assets/f10fb82b-16bc-4680-880c-2e469d5db768" />
 
 ##  Як запустити
 
